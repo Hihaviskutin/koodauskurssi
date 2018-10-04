@@ -6,3 +6,4 @@ console.log (nimi.replace("Vicky Walve","Ve"))
 
 
 
+
